@@ -2,6 +2,12 @@
 Portmaster of Toziuha Night: Order of the Alchemists.
 
 # Installation
+
+Purchase the game on Itch.io, gog or steam, download and put the tn_oota.pck into the gamedata folder.
+
+Buy links here:
+[https://dannygaray60.github.io/tn-oota.html](https://dannygaray60.github.io/tn-oota.html)
+
 Place the .sh script in the “roms/ports” folder and the ‘toziuha2’ folder in the “ports” folder.
 
 Since the port is not officially in the portmaster repository, you must install Toziuha Night Dracula's revenge (which is already published in Portmaster) using the Portmaster application on your handheld device and install it, for the sole purpose of downloading the godot engine runtime (Godot/FRT). 
