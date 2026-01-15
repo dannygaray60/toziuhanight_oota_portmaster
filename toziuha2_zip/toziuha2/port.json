@@ -13,8 +13,8 @@
     ],
     "desc": "This is the story of Xandria, an iron alchemist. She seeks revenge regardless of the consequences. To achieve it, Xandria fights with a powerful whip and the power of chemical elements. Find out more about her in this modern metroidvania adventure.",
     "desc_md": null,
-    "inst": "Purchase the game on Itch.io, gog or steam, download and extract the tn_oota.pck into the gamedata folder.",
-    "inst_md": "Purchase the game on Itch.io, gog or steam, download and extract the tn_oota.pck into the gamedata folder.\nBuy links here:\n[https://dannygaray60.github.io/tn-oota.html](https://dannygaray60.github.io/tn-oota.html)",
+    "inst": "Purchase the game on Itch.io, gog or steam, download and extract the tn_oota.pck into the gamedata folder. When you first start the game, it will ask if you want to configure the controls. This menu can only be used with a touchscreen. Therefore, if you do not have a touchscreen, you must force the game to close and re-enter, and the menu will not reappear.",
+    "inst_md": "Purchase the game on Itch.io, gog or steam, download and extract the tn_oota.pck into the gamedata folder.\nBuy links here:\n[https://dannygaray60.github.io/tn-oota.html](https://dannygaray60.github.io/tn-oota.html)\nWhen you first start the game, it will ask if you want to configure the controls. This menu can only be used with a touchscreen. Therefore, if you do not have a touchscreen, you must force the game to close and re-enter, and the menu will not reappear.",
     "genres": [
       "platformer"
     ],

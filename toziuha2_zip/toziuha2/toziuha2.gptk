@@ -12,10 +12,10 @@ r2 = \"
 l2 = \"
 
 
-up = up
-down = down
-left = left
-right = right
+up = \"
+down = \"
+left = \"
+right = \"
 left_analog_up = \"
 left_analog_down = \"
 left_analog_left = \"
