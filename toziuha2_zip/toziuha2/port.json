@@ -1,0 +1,53 @@
+{
+  "version": 4,
+  "name": "toziuha2",
+  "items": [
+    "Toziuha Night - Order of the Alchemists.sh",
+    "toziuha2"
+  ],
+  "items_opt": [],
+  "attr": {
+    "title": "Toziuha Night: Order of the Alchemists",
+    "porter": [
+      "Danny Garay"
+    ],
+    "desc": "This is the story of Xandria, an iron alchemist. She seeks revenge regardless of the consequences. To achieve it, Xandria fights with a powerful whip and the power of chemical elements. Find out more about her in this modern metroidvania adventure.",
+    "desc_md": null,
+    "inst": "Purchase the game on Itch.io, gog or steam, download and extract the tn_oota.pck into the gamedata folder.",
+    "inst_md": "Purchase the game on Itch.io, gog or steam, download and extract the tn_oota.pck into the gamedata folder.\nBuy links here:\n[https://dannygaray60.github.io/tn-oota.html](https://dannygaray60.github.io/tn-oota.html)",
+    "genres": [
+      "platformer"
+    ],
+    "image": null,
+    "rtr": false,
+    "exp": false,
+    "runtime": [
+      "frt_3.5.2.squashfs"
+    ],
+    "store": [
+      {
+        "name": "Steam",
+        "gameurl": "https://store.steampowered.com/app/2112750/Toziuha_Night_Order_of_the_Alchemists/",
+        "developerurl": "https://store.steampowered.com/developer/dannygaray"
+      },
+      {
+        "name": "GOG",
+        "gameurl": "https://www.gog.com/en/game/toziuha_night_order_of_the_alchemists",
+        "developerurl": "https://www.gog.com/en/games?developers=danny-garay"
+      },
+      {
+        "name": "Itch.io",
+        "gameurl": "https://dannygaray60.itch.io/toziuha-night-order-of-the-alchemists",
+        "developerurl": "https://dannygaray60.itch.io/"
+      }
+    ],
+    "availability": "paid",
+    "reqs": [
+      "opengl"
+    ],
+    "arch": [
+      "x86_64"
+    ],
+    "min_glibc": ""
+  }
+}
